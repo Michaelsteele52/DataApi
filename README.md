@@ -13,6 +13,9 @@ docker-compose build
 docker-compose up
 ```
 
+Navigate to or try at will with postman:
+https://localhost:8081/v1/company/uk/1111
+
 ### Running outside of docker
 ```
 cd src/DataApi/
